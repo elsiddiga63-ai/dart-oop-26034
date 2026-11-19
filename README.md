@@ -185,6 +185,22 @@ The repository should be private, and the lecturer should be added as a collabor
 
 ---
 
+## Final Testing Results
+
+The assignment programs were tested successfully.
+
+- Main program: Passed.
+- Bug hunt program: Passed.
+- Dart analyzer: No issues found.
+- Main program calculations: Verified.
+- Student discount: 14%.
+- Final regular card balance: 2872 RWF.
+- Final student card balance: 1138 RWF.
+
+All assignment files are included in this repository.
+
+---
+
 **Student:** Ahmed Elsiddig  
 **Student ID:** 26034  
 **Course Assignment:** Dart OOP – Kigali Bus Card
