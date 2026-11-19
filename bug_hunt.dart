@@ -25,6 +25,10 @@ class Phone {
     }
   }
 
+  void showPhoneInfo() {
+    print('Brand: $_brand | Battery: $_battery%');
+  }
+
   void restart() {
     print('Restarting phone');
   }
